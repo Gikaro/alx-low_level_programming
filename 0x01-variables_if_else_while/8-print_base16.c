@@ -2,8 +2,8 @@
 #include <stdlib.h>
 /**
  * main - main block
- * Description: Write a program that prints the alphabet in lowercase,
- * and then in uppercase, followed by a new line.
+ * Description:A program that prints all the numbers of base 16 in lowercase,
+ * followed by a new line.
  * Return: 0
  */
 int main(void)
