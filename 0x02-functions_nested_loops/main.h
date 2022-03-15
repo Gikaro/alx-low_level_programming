@@ -1,6 +1,7 @@
-#ifndef MAIN_H_ /* Main.h creation */
+/*
+#ifndef MAIN_H_ /?* Main.h creation *?/
 #define MAIN_H_
-
+*/
 int _putchar();
 
-#endif /* MAIN_H_ */
+/*#endif /?* MAIN_H_ */
