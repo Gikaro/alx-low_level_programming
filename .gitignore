@@ -1,4 +1,3 @@
-0x18-dynamic_libraries/*.c
-0x18-dynamic_libraries/*.o
+0x18-dynamic_libraries/*.c, *.o
 0x02-functions_nested_loops/*-main.c
 0x02-functions_nested_loops/_putchar.c
